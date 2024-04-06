@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d54d2bd-2f2c-4f01-ba9d-7c3073c79977" name="Changes" comment="part0 init" />
+    <list default="true" id="3d54d2bd-2f2c-4f01-ba9d-7c3073c79977" name="Changes" comment="part1 ex 1.1-1.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/courseinfo/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/part1/courseinfo/src/App.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager">
+  <component name="ChangesViewManager" show_ignored="true">
     <option name="groupingKeys">
       <option value="directory" />
     </option>
@@ -22,9 +25,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jacekkazalski&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jacekkazalski/Fullstack-Open-Course&quot;,
+    &quot;accountId&quot;: &quot;b9d4e699-e086-497e-a630-ca4062fb1fee&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2eizNwEB4V9O42Y5JnHE3PQ8tKp" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -39,14 +60,25 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +87,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712402153741</updated>
-      <workItem from="1712402154918" duration="3340000" />
+      <workItem from="1712402154918" duration="3753000" />
+      <workItem from="1712409027160" duration="109000" />
+      <workItem from="1712409338388" duration="89000" />
+      <workItem from="1712409432548" duration="113000" />
+      <workItem from="1712409693731" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="part0 init">
       <created>1712404722415</created>
@@ -64,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712404722415</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="part1 ex 1.1-1.2">
+      <created>1712408699717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712408699717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="part0 init" />
-    <option name="LAST_COMMIT_MESSAGE" value="part0 init" />
+    <MESSAGE value="part1 ex 1.1-1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="part1 ex 1.1-1.2" />
   </component>
 </project>
