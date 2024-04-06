@@ -21,4 +21,9 @@
     activate server
     server-->>browser: the JavaScript file
     deactivate server
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
+    activate server
+    server-->>browser: [{ "content": "hello", "date": "2024-04-05" }, ... ]
+    deactivate server
 ```
